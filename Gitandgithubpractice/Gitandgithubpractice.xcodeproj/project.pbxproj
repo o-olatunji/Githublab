@@ -13,6 +13,7 @@
 		BF8ED9301D65266600D79FCF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF8ED92F1D65266600D79FCF /* Assets.xcassets */; };
 		BF8ED9331D65266600D79FCF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF8ED9311D65266600D79FCF /* LaunchScreen.storyboard */; };
 		BF8ED93B1D65267700D79FCF /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF8ED93A1D65267700D79FCF /* Car.swift */; };
+		C1C246E41D6529A700CA2A4B /* Garage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C246E31D6529A700CA2A4B /* Garage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BF8ED9321D65266600D79FCF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF8ED9341D65266600D79FCF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BF8ED93A1D65267700D79FCF /* Car.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		C1C246E31D6529A700CA2A4B /* Garage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Garage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				BF8ED93A1D65267700D79FCF /* Car.swift */,
+				C1C246E31D6529A700CA2A4B /* Garage.swift */,
 				BF8ED9271D65266600D79FCF /* Gitandgithubpractice */,
 				BF8ED9261D65266600D79FCF /* Products */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				BF8ED92B1D65266600D79FCF /* ViewController.swift in Sources */,
 				BF8ED9291D65266600D79FCF /* AppDelegate.swift in Sources */,
+				C1C246E41D6529A700CA2A4B /* Garage.swift in Sources */,
 				BF8ED93B1D65267700D79FCF /* Car.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -306,6 +310,7 @@
 				BF8ED9391D65266600D79FCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

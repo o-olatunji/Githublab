@@ -1,11 +1,9 @@
 //
-//  Car.swift
+//  Garage.swift
 //  Gitandgithubpractice
 //
-//  Created by Olamide Olatunji on 8/17/16.
+//  Created by Fernando Angulo Donoso on 8/17/16.
 //  Copyright © 2016 Olamide Olatunji. All rights reserved.
 //
 
 import Foundation
-
-var car = 5
